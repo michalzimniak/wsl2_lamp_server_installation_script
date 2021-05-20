@@ -177,4 +177,3 @@ echo " You will see the PHP features installed "
 echo "2.- In Windows 10 in the browser enter: localhost/phpmyadmin"
 echo " Enter user: your-user Enter password: your-password "
 echo " Create database, tables, define fields, queries, etc.."
-EOF
